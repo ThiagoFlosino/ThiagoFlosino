@@ -5,10 +5,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thiagoflosino/)
 <!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat-square&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
 
-Desenvolvedor com experiência desde 2014, criando sistemas para órgãos públicos e empresas como Marinha do Brasil, Tribunal de Contas de São Paulo, Ministério do Trabalho e Emprego, ValeCard e ProjectBuilder.
+Olá👋,
+
+Sou Thiago, um desenvolvedor fullstack, desenvolvendo desde de 2014 sistemas para órgãos públicos e empresas como Marinha do Brasil, Tribunal de Contas de São Paulo, Ministério do Trabalho e Emprego, ValeCard e ProjectBuilder.
 Atuando em todas frentes de desenvolvimento utilizando diversas tecnologias em Java, Front-End e Business Intelligence.
 
-#### Skills
+## 💼 Skills
+
+<br>
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=de3210)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=de3210)
